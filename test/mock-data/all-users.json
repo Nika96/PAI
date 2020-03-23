@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anna",
+    "surname": "Kowalska",
+    "email": "anna@mail.com"
+  },
+  {
+    "name": "Jan",
+    "surname": "Kowal",
+    "email": "jan@mail.com"
+  },
+  {
+    "name": "Bartlomiej",
+    "surname": "Iksinski",
+    "email": "x@mail.com"
+  }
+]

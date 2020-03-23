@@ -1,0 +1,20 @@
+[
+  {
+    "userID": "Anna",
+    "roomNumber": 12,
+    "date": "12.12.2020",
+    "isReserved": "true"
+  },
+  {
+    "userID": "Anna",
+    "roomNumber": 12,
+    "date": "12.12.2020",
+    "isReserved": "true"
+  },
+  {
+    "userID": "Anna",
+    "roomNumber": 12,
+    "date": "12.12.2020",
+    "isReserved": "true"
+  }
+]
