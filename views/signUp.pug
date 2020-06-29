@@ -1,0 +1,23 @@
+head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    title Conference reservation
+    link(rel='stylesheet', type='text/css', href='styles/style.css')
+#signUp
+    #signUpPanel
+        h1 Sign up!
+        #signUpForm
+            form(action='/')
+                label NAME
+                br
+                input#userName(type='text')
+                label SURNAME
+                br
+                input#userSurname(type='text')
+                label E-MAIL
+                br
+                input#mail(type='e-mail', name='e-mail')
+                label PASSWORD
+                br
+                input#pass(type='password', name='password', minlength='4', required='')
+                input(type='submit', value='SIGN ME UP!')

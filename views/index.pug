@@ -1,0 +1,19 @@
+head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    title Conference reservation
+    link(rel='stylesheet', type='text/css', href='styles/style.css')
+.container
+    #logo
+        h1 conference
+.logIn
+    #logInPanel
+        h1 What next?
+        #logInForm
+            form(action='/')
+                label LOG IN
+                input#mail(type='e-mail', name='e-mail', value='e-mail')
+                input#pass(type='password', name='password', minlength='4', value='password', required='')
+                input(type='submit', value='>')
+                label OR
+            a(href='/signUp') Sign up
